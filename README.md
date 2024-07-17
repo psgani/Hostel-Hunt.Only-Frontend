@@ -41,6 +41,12 @@ The application should now be running on http://localhost:3000.
 
 This website is deployed on
 https://hostelhunt.netlify.app/
+## Screenshots
+![Screenshot_20230122_085908](https://github.com/user-attachments/assets/efdc7b7e-b279-4e78-9b12-f4194565cdf9)
+![Screenshot_20230122_160416](https://github.com/user-attachments/assets/cceb7a21-4349-40ac-855f-a8af78521daf)
+![Screenshot_20230126_131647](https://github.com/user-attachments/assets/529cd165-73be-4c88-abca-4bea6c992d81)
+
+
 
 
 
